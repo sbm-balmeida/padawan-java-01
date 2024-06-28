@@ -1,4 +1,4 @@
-package testaVariaveis;
+package testes;
 
 public class TestaConversao {
 	
